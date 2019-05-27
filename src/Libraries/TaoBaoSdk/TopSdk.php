@@ -5,8 +5,6 @@
  * @author xuteng.xt
  */
 
-namespace Hongyukeji\TaobaoSdk\Libraries\TaoBaoSdk;
-
 /**
  * 定义常量开始
  * 在include("TopSdk.php")之前定义这些常量，不要直接修改本文件，以利于升级覆盖
