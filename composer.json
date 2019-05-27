@@ -1,0 +1,20 @@
+{
+    "name": "hongyukeji/taobao-sdk",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shadow",
+            "email": "admin@hongyuvip.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hongyukeji\\TaobaoSdk\\": "src"
+        },
+        "files": [
+            "src/Libraries/TaoBaoSdk/TopSdk.php"
+        ]
+    }
+}
