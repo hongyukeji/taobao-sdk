@@ -12,9 +12,6 @@
     "autoload": {
         "psr-4": {
             "Hongyukeji\\TaobaoSdk\\": "src"
-        },
-        "files": [
-            "src/TopSdk.php"
-        ]
+        }
     }
 }
