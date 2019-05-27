@@ -17,7 +17,7 @@ namespace Hongyukeji\TaobaoSdk\Libraries\TaoBaoSdk;
  */
 if (!defined("TOP_SDK_WORK_DIR"))
 {
-	define("TOP_SDK_WORK_DIR", realpath(__DIR__ . '/../../../storage/framework/tmp'));
+    define("TOP_SDK_WORK_DIR", "/tmp/");
 }
 
 /**
