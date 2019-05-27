@@ -1,4 +1,5 @@
 <?php
+namespace Hongyukeji\TaobaoSdk;
 
 class Autoloader{
   
